@@ -178,6 +178,10 @@
 			gap:30px;
 			margin-bottom:40px;
         }
+
+		.categ-grid3 :hover{
+			box-shadow: 0 4px 25px rgba(0, 0, 0, 0.6);
+		}
 		
 		.link {
 			text-decoration: none;
@@ -532,6 +536,7 @@
 			margin-bottom:20px;
 		}
 		
+
 
 
 
