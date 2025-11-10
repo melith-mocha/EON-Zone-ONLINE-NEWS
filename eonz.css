@@ -200,18 +200,6 @@
 		.categ-grid2 :hover{
 			box-shadow: 0 4px 25px rgba(0, 0, 0, 0.6);
 		}
-
-	.categ-grid3 {
-            display: flex;
-            justify-content: center;
-			transition: transform 0.3s ease, box-shadow 0.3s ease;
-			cursor: pointer;
-			gap:30px;
-			margin-bottom:40px;
-        }
-		.categ-grid3 :hover{
-			box-shadow: 0 4px 25px rgba(0, 0, 0, 0.6);
-		}
 		
 			.news2 img {
 				border-radius:10px;
@@ -538,7 +526,11 @@
 			margin-top:10px;
 			margin-bottom:20px;
 		}
-		
+
+		.categ-grid3 :hover{
+			box-shadow: 0 4px 25px rgba(0, 0, 0, 0.6);
+		}
+
 
 
 
