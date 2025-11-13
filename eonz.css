@@ -465,16 +465,10 @@
 			margin-left: 255px;
             margin-right: 255px;
 		}
-		.desc8 p img{
-			border-radius:2px;
-            width: 50%;
-			height:500px;
-			display:block;
-		}
 		.desc9 img {
 			border-radius:2px;
-            width: 60%;
-			height:370px;
+            width: 50%;
+			height:450px;
 			display:block;
 		}
 		
@@ -661,6 +655,7 @@
         }
 		
 		
+
 
 
 
