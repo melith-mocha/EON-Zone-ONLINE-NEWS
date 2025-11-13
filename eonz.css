@@ -470,7 +470,13 @@
             width: 50%;
 			height:500px;
 			display:block;
-		
+		}
+		.desc9 img {
+			border-radius:2px;
+            width: 60%;
+			height:370px;
+			display:block;
+		}
 		
 		.con {
 			margin-top:0px;
@@ -655,6 +661,7 @@
         }
 		
 		
+
 
 
 
