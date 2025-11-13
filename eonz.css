@@ -465,6 +465,11 @@
 			margin-left: 255px;
             margin-right: 255px;
 		}
+		.desc8 p img {
+			border-radius:2px;
+            width: 50%;
+			height:500px;
+			display:block;
 		
 		
 		.con {
@@ -650,6 +655,7 @@
         }
 		
 		
+
 
 
 
